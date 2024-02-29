@@ -1,0 +1,524 @@
+[
+  {
+    "equipe1": "AFC Bournemouth",
+    "score1": "0",
+    "equipe2": "Leicester City",
+    "score2": "1"
+  },
+  {
+    "equipe1": "Blackburn Rovers",
+    "score1": "1",
+    "equipe2": "Newcastle United",
+    "score2": "1"
+  },
+  {
+    "equipe1": "Luton Town",
+    "score1": "2",
+    "equipe2": "Manchester City",
+    "score2": "6"
+  },
+  {
+    "equipe1": "Real Sociedad",
+    "score1": "1",
+    "equipe2": "Mallorca",
+    "score2": "1"
+  },
+  {
+    "equipe1": "Lyon",
+    "score1": "0",
+    "equipe2": "Strasbourg",
+    "score2": "0"
+  },
+  {
+    "equipe1": "Ross County",
+    "score1": "1",
+    "equipe2": "St Mirren",
+    "score2": "1"
+  },
+  {
+    "equipe1": "Colombia",
+    "score1": "2",
+    "equipe2": "Puerto Rico",
+    "score2": "0"
+  },
+  {
+    "equipe1": "Brazil",
+    "score1": "5",
+    "equipe2": "Panama",
+    "score2": "0"
+  },
+  {
+    "equipe1": "Switzerland",
+    "score1": "0",
+    "equipe2": "Poland",
+    "score2": "1"
+  },
+  {
+    "equipe1": "England",
+    "score1": "5",
+    "equipe2": "Italy",
+    "score2": "1"
+  },
+  {
+    "equipe1": "Portugal",
+    "score1": "5",
+    "equipe2": "South Korea",
+    "score2": "1"
+  },
+  {
+    "equipe1": "Republic of Ireland",
+    "score1": "0",
+    "equipe2": "Wales",
+    "score2": "2"
+  },
+  {
+    "equipe1": "Chile",
+    "score1": "1",
+    "equipe2": "Jamaica",
+    "score2": "0"
+  },
+  {
+    "equipe1": "Scotland",
+    "score1": "1",
+    "equipe2": "Finland",
+    "score2": "1"
+  },
+  {
+    "equipe1": "Philippines",
+    "score1": "0",
+    "equipe2": "Slovenia",
+    "score2": "1"
+  },
+  {
+    "equipe1": "Burton Albion",
+    "score1": "0",
+    "equipe2": "Carlisle United",
+    "score2": "1"
+  },
+  {
+    "equipe1": "Derby County",
+    "score1": "1",
+    "equipe2": "Charlton Athletic",
+    "score2": "2"
+  },
+  {
+    "equipe1": "Leyton Orient",
+    "score1": "1",
+    "equipe2": "Blackpool",
+    "score2": "0"
+  },
+  {
+    "equipe1": "Lincoln City",
+    "score1": "3",
+    "equipe2": "Shrewsbury Town",
+    "score2": "0"
+  },
+  {
+    "equipe1": "Port Vale",
+    "score1": "2",
+    "equipe2": "Fleetwood Town",
+    "score2": "2"
+  },
+  {
+    "equipe1": "Wycombe Wanderers",
+    "score1": "2",
+    "equipe2": "Cheltenham Town",
+    "score2": "0"
+  },
+  {
+    "equipe1": "Stevenage",
+    "score1": "1",
+    "equipe2": "Cambridge United",
+    "score2": "0"
+  },
+  {
+    "equipe1": "Wigan Athletic",
+    "score1": "1",
+    "equipe2": "Bolton Wanderers",
+    "score2": "0"
+  },
+  {
+    "equipe1": "Forest Green Rovers",
+    "score1": "1",
+    "equipe2": "Wrexham",
+    "score2": "1"
+  },
+  {
+    "equipe1": "Harrogate Town",
+    "score1": "1",
+    "equipe2": "Newport County",
+    "score2": "4"
+  },
+  {
+    "equipe1": "Notts County",
+    "score1": "3",
+    "equipe2": "Sutton United",
+    "score2": "4"
+  },
+  {
+    "equipe1": "Salford City",
+    "score1": "1",
+    "equipe2": "Colchester United",
+    "score2": "1"
+  },
+  {
+    "equipe1": "Swindon Town",
+    "score1": "3",
+    "equipe2": "Tranmere Rovers",
+    "score2": "1"
+  },
+  {
+    "equipe1": "Walsall",
+    "score1": "2",
+    "equipe2": "Accrington Stanley",
+    "score2": "1"
+  },
+  {
+    "equipe1": "Barnet",
+    "score1": "0",
+    "equipe2": "Chesterfield",
+    "score2": "2"
+  },
+  {
+    "equipe1": "Eastleigh",
+    "score1": "1",
+    "equipe2": "Oldham Athletic",
+    "score2": "2"
+  },
+  {
+    "equipe1": "Rochdale",
+    "score1": "3",
+    "equipe2": "Wealdstone",
+    "score2": "0"
+  },
+  {
+    "equipe1": "Solihull Moors",
+    "score1": "0",
+    "equipe2": "Kidderminster Harriers",
+    "score2": "1"
+  },
+  {
+    "equipe1": "Southend United",
+    "score1": "2",
+    "equipe2": "Altrincham",
+    "score2": "1"
+  },
+  {
+    "equipe1": "Woking",
+    "score1": "3",
+    "equipe2": "Gateshead",
+    "score2": "2"
+  },
+  {
+    "equipe1": "Ayr United",
+    "score1": "4",
+    "equipe2": "Partick Thistle",
+    "score2": "3"
+  },
+  {
+    "equipe1": "Dundee United",
+    "score1": "0",
+    "equipe2": "Airdrieonians",
+    "score2": "2"
+  },
+  {
+    "equipe1": "Inverness Caledonian Thistle",
+    "score1": "0",
+    "equipe2": "Dunfermline Athletic",
+    "score2": "0"
+  },
+  {
+    "equipe1": "Queen's Park",
+    "score1": "6",
+    "equipe2": "Arbroath",
+    "score2": "0"
+  },
+  {
+    "equipe1": "Raith Rovers",
+    "score1": "0",
+    "equipe2": "Greenock Morton",
+    "score2": "0"
+  },
+  {
+    "equipe1": "Stirling Albion",
+    "score1": "0",
+    "equipe2": "Hamilton Academical",
+    "score2": "0"
+  },
+  {
+    "equipe1": "SC Cambuur",
+    "score1": "1",
+    "equipe2": "NEC Nijmegen",
+    "score2": "2"
+  },
+  {
+    "equipe1": "Orlando City SC",
+    "score1": "3",
+    "equipe2": "Cavalry FC",
+    "score2": "1"
+  },
+  {
+    "equipe1": "Philadelphia Union",
+    "score1": "3",
+    "equipe2": "Saprissa",
+    "score2": "3"
+  },
+  {
+    "equipe1": "Houston Dynamo FC",
+    "score1": "1",
+    "equipe2": "St. Louis CITY SC",
+    "score2": "0"
+  },
+  {
+    "equipe1": "Quer\u00e9taro",
+    "score1": "4",
+    "equipe2": "Atl\u00e9tico de San Luis",
+    "score2": "1"
+  },
+  {
+    "equipe1": "Palestino",
+    "score1": "2",
+    "equipe2": "Portuguesa",
+    "score2": "1"
+  },
+  {
+    "equipe1": "Red Bull Bragantino",
+    "score1": "0",
+    "equipe2": "Rionegro \u00c1guilas",
+    "score2": "0"
+  },
+  {
+    "equipe1": "Sporting Cristal",
+    "score1": "3",
+    "equipe2": "Always Ready",
+    "score2": "1"
+  },
+  {
+    "equipe1": "Hyderabad",
+    "score1": "0",
+    "equipe2": "Punjab FC",
+    "score2": "2"
+  },
+  {
+    "equipe1": "Ascoli",
+    "score1": "1",
+    "equipe2": "Brescia",
+    "score2": "1"
+  },
+  {
+    "equipe1": "Reggiana",
+    "score1": "1",
+    "equipe2": "Suditrol",
+    "score2": "1"
+  },
+  {
+    "equipe1": "Catanzaro",
+    "score1": "2",
+    "equipe2": "Bari",
+    "score2": "0"
+  },
+  {
+    "equipe1": "Lecco",
+    "score1": "0",
+    "equipe2": "Como",
+    "score2": "3"
+  },
+  {
+    "equipe1": "Palermo",
+    "score1": "2",
+    "equipe2": "Ternana",
+    "score2": "3"
+  },
+  {
+    "equipe1": "Parma",
+    "score1": "1",
+    "equipe2": "Cosenza",
+    "score2": "1"
+  },
+  {
+    "equipe1": "Sampdoria",
+    "score1": "1",
+    "equipe2": "Cremonese",
+    "score2": "2"
+  },
+  {
+    "equipe1": "Lisse",
+    "score1": "1",
+    "equipe2": "VV Katwijk",
+    "score2": "5"
+  },
+  {
+    "equipe1": "U Craiova 1948",
+    "score1": "1",
+    "equipe2": "CSMS Iasi",
+    "score2": "1"
+  },
+  {
+    "equipe1": "Dinamo Bucuresti",
+    "score1": "1",
+    "equipe2": "Hermannstadt",
+    "score2": "0"
+  },
+  {
+    "equipe1": "Otelul Galati",
+    "score1": "2",
+    "equipe2": "CFR Cluj-Napoca",
+    "score2": "2"
+  },
+  {
+    "equipe1": "Venados FC",
+    "score1": "1",
+    "equipe2": "Atlante",
+    "score2": "0"
+  },
+  {
+    "equipe1": "U. de G.",
+    "score1": "1",
+    "equipe2": "Correcaminos",
+    "score2": "1"
+  },
+  {
+    "equipe1": "Sarmiento (Jun\u00edn)",
+    "score1": "1",
+    "equipe2": "Temperley",
+    "score2": "1"
+  },
+  {
+    "equipe1": "Atlanta",
+    "score1": "0",
+    "equipe2": "Aldosivi",
+    "score2": "2"
+  },
+  {
+    "equipe1": "Sacachispas",
+    "score1": "2",
+    "equipe2": "Sportivo Italiano",
+    "score2": "2"
+  },
+  {
+    "equipe1": "Berazategui",
+    "score1": "2",
+    "equipe2": "Luj\u00e1n",
+    "score2": "0"
+  },
+  {
+    "equipe1": "Centro Espa\u00f1ol",
+    "score1": "2",
+    "equipe2": "Juventud Unida",
+    "score2": "0"
+  },
+  {
+    "equipe1": "Athletic Club (Minas Gerais)",
+    "score1": "1",
+    "equipe2": "Volta Redonda",
+    "score2": "0"
+  },
+  {
+    "equipe1": "Iguatu",
+    "score1": "0",
+    "equipe2": "Juventude",
+    "score2": "0"
+  },
+  {
+    "equipe1": "Marc\u00edlio Dias",
+    "score1": "1",
+    "equipe2": "Vasco da Gama",
+    "score2": "3"
+  },
+  {
+    "equipe1": "Envigado",
+    "score1": "1",
+    "equipe2": "Patriotas",
+    "score2": "0"
+  },
+  {
+    "equipe1": "Millonarios",
+    "score1": "0",
+    "equipe2": "Once Caldas",
+    "score2": "2"
+  },
+  {
+    "equipe1": "Bogot\u00e1 FC",
+    "score1": "2",
+    "equipe2": "Atl\u00e9tico Huila",
+    "score2": "1"
+  },
+  {
+    "equipe1": "Real Santander",
+    "score1": "1",
+    "equipe2": "Atl\u00e9tico FC",
+    "score2": "1"
+  },
+  {
+    "equipe1": "Uni\u00f3n Magdalena",
+    "score1": "2",
+    "equipe2": "Deportes Quind\u00edo",
+    "score2": "2"
+  },
+  {
+    "equipe1": "Independiente Petrolero",
+    "score1": "1",
+    "equipe2": "Nacional Potos\u00ed",
+    "score2": "1"
+  },
+  {
+    "equipe1": "Inter Kashi",
+    "score1": "3",
+    "equipe2": "NEROCA FC",
+    "score2": "1"
+  },
+  {
+    "equipe1": "Churchill Brothers",
+    "score1": "2",
+    "equipe2": "Delhi FC",
+    "score2": "0"
+  },
+  {
+    "equipe1": "Dewa United",
+    "score1": "5",
+    "equipe2": "RANS Nusantara",
+    "score2": "0"
+  },
+  {
+    "equipe1": "PSS Sleman",
+    "score1": "3",
+    "equipe2": "Persita Tangerang",
+    "score2": "3"
+  },
+  {
+    "equipe1": "Persib",
+    "score1": "3",
+    "equipe2": "PSIS Semarang",
+    "score2": "0"
+  },
+  {
+    "equipe1": "Mamelodi Sundowns",
+    "score1": "3",
+    "equipe2": "Amazulu",
+    "score2": "0"
+  },
+  {
+    "equipe1": "Express",
+    "score1": "3",
+    "equipe2": "UPDF",
+    "score2": "1"
+  },
+  {
+    "equipe1": "Kitara",
+    "score1": "1",
+    "equipe2": "Wakiso Giants",
+    "score2": "0"
+  },
+  {
+    "equipe1": "San Carlos",
+    "score1": "4",
+    "equipe2": "Santos",
+    "score2": "0"
+  },
+  {
+    "equipe1": "Coban Imperial",
+    "score1": "3",
+    "equipe2": "Comunicaciones",
+    "score2": "0"
+  }
+]
